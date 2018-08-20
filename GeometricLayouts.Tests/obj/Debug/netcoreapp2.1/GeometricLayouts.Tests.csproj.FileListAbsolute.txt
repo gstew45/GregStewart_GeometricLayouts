@@ -17,3 +17,22 @@ c:\users\greg-pc\documents\visual studio 2017\Projects\GeometricLayouts\Geometri
 c:\users\greg-pc\documents\visual studio 2017\Projects\GeometricLayouts\GeometricLayouts.Tests\obj\Debug\netcoreapp2.1\GeometricLayouts.Tests.csproj.CopyComplete
 c:\users\greg-pc\documents\visual studio 2017\Projects\GeometricLayouts\GeometricLayouts.Tests\obj\Debug\netcoreapp2.1\GeometricLayouts.Tests.dll
 c:\users\greg-pc\documents\visual studio 2017\Projects\GeometricLayouts\GeometricLayouts.Tests\obj\Debug\netcoreapp2.1\GeometricLayouts.Tests.pdb
+C:\GregStewart_GeometricLayouts\GeometricLayouts.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\GregStewart_GeometricLayouts\GeometricLayouts.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\GregStewart_GeometricLayouts\GeometricLayouts.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\GregStewart_GeometricLayouts\GeometricLayouts.Tests\bin\Debug\netcoreapp2.1\GeometricLayouts.Tests.deps.json
+C:\GregStewart_GeometricLayouts\GeometricLayouts.Tests\bin\Debug\netcoreapp2.1\GeometricLayouts.Tests.runtimeconfig.json
+C:\GregStewart_GeometricLayouts\GeometricLayouts.Tests\bin\Debug\netcoreapp2.1\GeometricLayouts.Tests.runtimeconfig.dev.json
+C:\GregStewart_GeometricLayouts\GeometricLayouts.Tests\bin\Debug\netcoreapp2.1\GeometricLayouts.Tests.dll
+C:\GregStewart_GeometricLayouts\GeometricLayouts.Tests\bin\Debug\netcoreapp2.1\GeometricLayouts.Tests.pdb
+C:\GregStewart_GeometricLayouts\GeometricLayouts.Tests\bin\Debug\netcoreapp2.1\GeometricLayouts.Core.dll
+C:\GregStewart_GeometricLayouts\GeometricLayouts.Tests\bin\Debug\netcoreapp2.1\GeometricLayouts.dll
+C:\GregStewart_GeometricLayouts\GeometricLayouts.Tests\bin\Debug\netcoreapp2.1\GeometricLayouts.Core.pdb
+C:\GregStewart_GeometricLayouts\GeometricLayouts.Tests\bin\Debug\netcoreapp2.1\GeometricLayouts.pdb
+C:\GregStewart_GeometricLayouts\GeometricLayouts.Tests\obj\Debug\netcoreapp2.1\GeometricLayouts.Tests.csprojAssemblyReference.cache
+C:\GregStewart_GeometricLayouts\GeometricLayouts.Tests\obj\Debug\netcoreapp2.1\GeometricLayouts.Tests.csproj.CoreCompileInputs.cache
+C:\GregStewart_GeometricLayouts\GeometricLayouts.Tests\obj\Debug\netcoreapp2.1\GeometricLayouts.Tests.AssemblyInfoInputs.cache
+C:\GregStewart_GeometricLayouts\GeometricLayouts.Tests\obj\Debug\netcoreapp2.1\GeometricLayouts.Tests.AssemblyInfo.cs
+C:\GregStewart_GeometricLayouts\GeometricLayouts.Tests\obj\Debug\netcoreapp2.1\GeometricLayouts.Tests.csproj.CopyComplete
+C:\GregStewart_GeometricLayouts\GeometricLayouts.Tests\obj\Debug\netcoreapp2.1\GeometricLayouts.Tests.dll
+C:\GregStewart_GeometricLayouts\GeometricLayouts.Tests\obj\Debug\netcoreapp2.1\GeometricLayouts.Tests.pdb

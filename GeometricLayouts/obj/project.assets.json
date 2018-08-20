@@ -11522,11 +11522,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\greg-pc\\documents\\visual studio 2017\\Projects\\GeometricLayouts\\GeometricLayouts\\GeometricLayouts.csproj",
+      "projectUniqueName": "C:\\GregStewart_GeometricLayouts\\GeometricLayouts\\GeometricLayouts.csproj",
       "projectName": "GeometricLayouts",
-      "projectPath": "c:\\users\\greg-pc\\documents\\visual studio 2017\\Projects\\GeometricLayouts\\GeometricLayouts\\GeometricLayouts.csproj",
+      "projectPath": "C:\\GregStewart_GeometricLayouts\\GeometricLayouts\\GeometricLayouts.csproj",
       "packagesPath": "C:\\Users\\Greg-PC\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\greg-pc\\documents\\visual studio 2017\\Projects\\GeometricLayouts\\GeometricLayouts\\obj\\",
+      "outputPath": "C:\\GregStewart_GeometricLayouts\\GeometricLayouts\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -11545,8 +11545,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "c:\\users\\greg-pc\\documents\\visual studio 2017\\Projects\\GeometricLayouts\\GeometricLayouts.Core\\GeometricLayouts.Core.csproj": {
-              "projectPath": "c:\\users\\greg-pc\\documents\\visual studio 2017\\Projects\\GeometricLayouts\\GeometricLayouts.Core\\GeometricLayouts.Core.csproj"
+            "C:\\GregStewart_GeometricLayouts\\GeometricLayouts.Core\\GeometricLayouts.Core.csproj": {
+              "projectPath": "C:\\GregStewart_GeometricLayouts\\GeometricLayouts.Core\\GeometricLayouts.Core.csproj"
             }
           }
         }

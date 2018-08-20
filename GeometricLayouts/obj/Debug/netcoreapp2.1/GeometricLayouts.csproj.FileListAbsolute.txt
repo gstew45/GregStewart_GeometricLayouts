@@ -15,3 +15,20 @@ c:\users\greg-pc\documents\visual studio 2017\Projects\GeometricLayouts\Geometri
 c:\users\greg-pc\documents\visual studio 2017\Projects\GeometricLayouts\GeometricLayouts\obj\Debug\netcoreapp2.1\GeometricLayouts.csproj.CopyComplete
 c:\users\greg-pc\documents\visual studio 2017\Projects\GeometricLayouts\GeometricLayouts\obj\Debug\netcoreapp2.1\GeometricLayouts.dll
 c:\users\greg-pc\documents\visual studio 2017\Projects\GeometricLayouts\GeometricLayouts\obj\Debug\netcoreapp2.1\GeometricLayouts.pdb
+C:\GregStewart_GeometricLayouts\GeometricLayouts\bin\Debug\netcoreapp2.1\GeometricLayouts.deps.json
+C:\GregStewart_GeometricLayouts\GeometricLayouts\bin\Debug\netcoreapp2.1\GeometricLayouts.runtimeconfig.json
+C:\GregStewart_GeometricLayouts\GeometricLayouts\bin\Debug\netcoreapp2.1\GeometricLayouts.runtimeconfig.dev.json
+C:\GregStewart_GeometricLayouts\GeometricLayouts\bin\Debug\netcoreapp2.1\GeometricLayouts.dll
+C:\GregStewart_GeometricLayouts\GeometricLayouts\bin\Debug\netcoreapp2.1\GeometricLayouts.pdb
+C:\GregStewart_GeometricLayouts\GeometricLayouts\bin\Debug\netcoreapp2.1\GeometricLayouts.Core.dll
+C:\GregStewart_GeometricLayouts\GeometricLayouts\bin\Debug\netcoreapp2.1\GeometricLayouts.Core.pdb
+C:\GregStewart_GeometricLayouts\GeometricLayouts\obj\Debug\netcoreapp2.1\GeometricLayouts.csprojAssemblyReference.cache
+C:\GregStewart_GeometricLayouts\GeometricLayouts\obj\Debug\netcoreapp2.1\GeometricLayouts.csproj.CoreCompileInputs.cache
+C:\GregStewart_GeometricLayouts\GeometricLayouts\obj\Debug\netcoreapp2.1\GeometricLayouts.RazorAssemblyInfo.cache
+C:\GregStewart_GeometricLayouts\GeometricLayouts\obj\Debug\netcoreapp2.1\GeometricLayouts.RazorAssemblyInfo.cs
+C:\GregStewart_GeometricLayouts\GeometricLayouts\obj\Debug\netcoreapp2.1\GeometricLayouts.AssemblyInfoInputs.cache
+C:\GregStewart_GeometricLayouts\GeometricLayouts\obj\Debug\netcoreapp2.1\GeometricLayouts.AssemblyInfo.cs
+C:\GregStewart_GeometricLayouts\GeometricLayouts\obj\Debug\netcoreapp2.1\GeometricLayouts.RazorTargetAssemblyInfo.cache
+C:\GregStewart_GeometricLayouts\GeometricLayouts\obj\Debug\netcoreapp2.1\GeometricLayouts.csproj.CopyComplete
+C:\GregStewart_GeometricLayouts\GeometricLayouts\obj\Debug\netcoreapp2.1\GeometricLayouts.dll
+C:\GregStewart_GeometricLayouts\GeometricLayouts\obj\Debug\netcoreapp2.1\GeometricLayouts.pdb

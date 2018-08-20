@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\greg-pc\\documents\\visual studio 2017\\Projects\\GeometricLayouts\\GeometricLayouts.Core\\GeometricLayouts.Core.csproj",
+      "projectUniqueName": "C:\\GregStewart_GeometricLayouts\\GeometricLayouts.Core\\GeometricLayouts.Core.csproj",
       "projectName": "GeometricLayouts.Core",
-      "projectPath": "c:\\users\\greg-pc\\documents\\visual studio 2017\\Projects\\GeometricLayouts\\GeometricLayouts.Core\\GeometricLayouts.Core.csproj",
+      "projectPath": "C:\\GregStewart_GeometricLayouts\\GeometricLayouts.Core\\GeometricLayouts.Core.csproj",
       "packagesPath": "C:\\Users\\Greg-PC\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\greg-pc\\documents\\visual studio 2017\\Projects\\GeometricLayouts\\GeometricLayouts.Core\\obj\\",
+      "outputPath": "C:\\GregStewart_GeometricLayouts\\GeometricLayouts.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
