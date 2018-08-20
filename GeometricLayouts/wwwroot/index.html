@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Geometric Layouts</title>
+    <style>
+        input[type='submit'], button, [aria-label] {
+            cursor: pointer;
+        }
+
+        #triangleCanvas {
+            border: 5px solid red;
+        }
+
+        #triangleNotFoundByRowAndColumn, #triangleNotFoundByPoints {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <h1>Geometric Layouts</h1>
+    <p>Enter a row (A-F) and a column (1-12) in the fields below to draw a triangle.</p>
+    <form action="javascript:void(0);" method="GET" onsubmit="drawTriangle()">
+        <input type="text" id="row" placeholder="Enter a row value" pattern="[A-Z]{1}">
+        <input type="number" id="column" maxlength="2" placeholder="Enter a column value">
+        <input type="submit" value="Draw">
+    </form>
+    <p id="triangleNotFoundByRowAndColumn"></p>
+
+    <p>Enter three points to return the triangle that corresponds to.</p>
+    <form action="javascript:void(0);" method="POST" onsubmit="getTriangleFromPoints()">
+        <input type="number" id="xCoord1" placeholder="Enter X coordinate">
+        <input type="number" id="yCoord1" placeholder="Enter Y coordinate"><br />
+        <input type="number" id="xCoord2" placeholder="Enter X coordinate">
+        <input type="number" id="yCoord2" placeholder="Enter Y coordinate"><br />
+        <input type="number" id="xCoord3" placeholder="Enter X coordinate">
+        <input type="number" id="yCoord3" placeholder="Enter Y coordinate"><br />
+        <input type="submit" value="Get Triangle">
+    </form>
+
+    <p id="triangleNotFoundByPoints"></p>
+
+    <p id="triangleDescription"></p>
+
+    <div>
+        <canvas id="triangleCanvas" height="60" width="60"></canvas>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"
+            integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+            crossorigin="anonymous"></script>
+    <script src="site.js"></script>
+</body>
+</html>

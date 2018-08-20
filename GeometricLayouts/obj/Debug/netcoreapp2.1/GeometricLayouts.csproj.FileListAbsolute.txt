@@ -1,0 +1,17 @@
+c:\users\greg-pc\documents\visual studio 2017\Projects\GeometricLayouts\GeometricLayouts\bin\Debug\netcoreapp2.1\GeometricLayouts.deps.json
+c:\users\greg-pc\documents\visual studio 2017\Projects\GeometricLayouts\GeometricLayouts\bin\Debug\netcoreapp2.1\GeometricLayouts.runtimeconfig.json
+c:\users\greg-pc\documents\visual studio 2017\Projects\GeometricLayouts\GeometricLayouts\bin\Debug\netcoreapp2.1\GeometricLayouts.runtimeconfig.dev.json
+c:\users\greg-pc\documents\visual studio 2017\Projects\GeometricLayouts\GeometricLayouts\bin\Debug\netcoreapp2.1\GeometricLayouts.dll
+c:\users\greg-pc\documents\visual studio 2017\Projects\GeometricLayouts\GeometricLayouts\bin\Debug\netcoreapp2.1\GeometricLayouts.pdb
+c:\users\greg-pc\documents\visual studio 2017\Projects\GeometricLayouts\GeometricLayouts\bin\Debug\netcoreapp2.1\GeometricLayouts.Core.dll
+c:\users\greg-pc\documents\visual studio 2017\Projects\GeometricLayouts\GeometricLayouts\bin\Debug\netcoreapp2.1\GeometricLayouts.Core.pdb
+c:\users\greg-pc\documents\visual studio 2017\Projects\GeometricLayouts\GeometricLayouts\obj\Debug\netcoreapp2.1\GeometricLayouts.csprojAssemblyReference.cache
+c:\users\greg-pc\documents\visual studio 2017\Projects\GeometricLayouts\GeometricLayouts\obj\Debug\netcoreapp2.1\GeometricLayouts.csproj.CoreCompileInputs.cache
+c:\users\greg-pc\documents\visual studio 2017\Projects\GeometricLayouts\GeometricLayouts\obj\Debug\netcoreapp2.1\GeometricLayouts.RazorAssemblyInfo.cache
+c:\users\greg-pc\documents\visual studio 2017\Projects\GeometricLayouts\GeometricLayouts\obj\Debug\netcoreapp2.1\GeometricLayouts.RazorAssemblyInfo.cs
+c:\users\greg-pc\documents\visual studio 2017\Projects\GeometricLayouts\GeometricLayouts\obj\Debug\netcoreapp2.1\GeometricLayouts.AssemblyInfoInputs.cache
+c:\users\greg-pc\documents\visual studio 2017\Projects\GeometricLayouts\GeometricLayouts\obj\Debug\netcoreapp2.1\GeometricLayouts.AssemblyInfo.cs
+c:\users\greg-pc\documents\visual studio 2017\Projects\GeometricLayouts\GeometricLayouts\obj\Debug\netcoreapp2.1\GeometricLayouts.RazorTargetAssemblyInfo.cache
+c:\users\greg-pc\documents\visual studio 2017\Projects\GeometricLayouts\GeometricLayouts\obj\Debug\netcoreapp2.1\GeometricLayouts.csproj.CopyComplete
+c:\users\greg-pc\documents\visual studio 2017\Projects\GeometricLayouts\GeometricLayouts\obj\Debug\netcoreapp2.1\GeometricLayouts.dll
+c:\users\greg-pc\documents\visual studio 2017\Projects\GeometricLayouts\GeometricLayouts\obj\Debug\netcoreapp2.1\GeometricLayouts.pdb

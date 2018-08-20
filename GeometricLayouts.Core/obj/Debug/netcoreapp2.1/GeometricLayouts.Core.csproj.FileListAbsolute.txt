@@ -1,0 +1,13 @@
+c:\users\greg-pc\documents\visual studio 2017\Projects\GeometricLayouts\GeometricLayouts.Core\bin\Debug\netcoreapp2.1\GeometricLayouts.Core.deps.json
+c:\users\greg-pc\documents\visual studio 2017\Projects\GeometricLayouts\GeometricLayouts.Core\bin\Debug\netcoreapp2.1\GeometricLayouts.Core.dll
+c:\users\greg-pc\documents\visual studio 2017\Projects\GeometricLayouts\GeometricLayouts.Core\bin\Debug\netcoreapp2.1\GeometricLayouts.Core.pdb
+c:\users\greg-pc\documents\visual studio 2017\Projects\GeometricLayouts\GeometricLayouts.Core\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+c:\users\greg-pc\documents\visual studio 2017\Projects\GeometricLayouts\GeometricLayouts.Core\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll
+c:\users\greg-pc\documents\visual studio 2017\Projects\GeometricLayouts\GeometricLayouts.Core\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+c:\users\greg-pc\documents\visual studio 2017\Projects\GeometricLayouts\GeometricLayouts.Core\bin\Debug\netcoreapp2.1\Newtonsoft.Json.xml
+c:\users\greg-pc\documents\visual studio 2017\Projects\GeometricLayouts\GeometricLayouts.Core\obj\Debug\netcoreapp2.1\GeometricLayouts.Core.csproj.CoreCompileInputs.cache
+c:\users\greg-pc\documents\visual studio 2017\Projects\GeometricLayouts\GeometricLayouts.Core\obj\Debug\netcoreapp2.1\GeometricLayouts.Core.AssemblyInfoInputs.cache
+c:\users\greg-pc\documents\visual studio 2017\Projects\GeometricLayouts\GeometricLayouts.Core\obj\Debug\netcoreapp2.1\GeometricLayouts.Core.AssemblyInfo.cs
+c:\users\greg-pc\documents\visual studio 2017\Projects\GeometricLayouts\GeometricLayouts.Core\obj\Debug\netcoreapp2.1\GeometricLayouts.Core.csproj.CopyComplete
+c:\users\greg-pc\documents\visual studio 2017\Projects\GeometricLayouts\GeometricLayouts.Core\obj\Debug\netcoreapp2.1\GeometricLayouts.Core.dll
+c:\users\greg-pc\documents\visual studio 2017\Projects\GeometricLayouts\GeometricLayouts.Core\obj\Debug\netcoreapp2.1\GeometricLayouts.Core.pdb
